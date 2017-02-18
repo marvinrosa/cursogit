@@ -1,6 +1,6 @@
 
 body{
-	background-color: #9CB6F2;
+	background-color: #8DAEE4;
 
 }
 
@@ -25,7 +25,7 @@ h1{
 
 	width: 100%;
 	text-align: center;
-	background-color: silver;
+	background-color: #8C778B;
 	padding: 5px;
 	
 }
@@ -64,9 +64,9 @@ h2{
 	text-align: center;
 }
 
-.footer{
+ h4{
 
-	color: gray;
+	color: black;
 	
 }
 
