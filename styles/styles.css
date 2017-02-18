@@ -5,13 +5,13 @@ body{
 
 
 h1{
-
+	
 	
 
 }
 
 .mensajeInicial{
-	
+   font-size: 20px;
 	color: #F53C46;
 	text-align: center;
 
@@ -19,6 +19,7 @@ h1{
 .nav, ul{
 	list-style-type:none;
 }
+
 .mainContent{
 
 	width: 100%;
@@ -31,3 +32,18 @@ h1{
 
 	background-color: #3C74F5;
 }
+
+#cambio{
+
+	border: 3px;
+	border-radius: 2px;
+	width: 125px;
+	height: 150px;
+
+}
+
+.formulario{
+
+	padding: 50px;
+}
+
