@@ -21,19 +21,25 @@ h1{
 	list-style-type:none;
 }
 
+.principal{
+	background-color: #8C778B;
+	padding: 5px;
+	margin-left: 5px;
+
+}
 .mainContent{
 
 	width: 100%;
 	text-align: center;
-	background-color: #8C778B;
-	padding: 5px;
+	
 	
 }
+
 
 .mainContent:hover{
 
 	background-color: #3C74F5;
-	magin:0;
+	
 }
 
 h2{
@@ -70,3 +76,15 @@ h2{
 	
 }
 
+footer{
+	position: relative;
+	left: 0;
+	bottom: 0;
+
+	height: 60px;
+	width: 100%;
+	color:#FFFFFF; 
+	background: #24478F;
+	text-align: right;
+	line-height: 40px;
+}
