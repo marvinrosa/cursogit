@@ -1,0 +1,17 @@
+commit ae2a1db96a900791de6ea032985e4aa1706f8aea
+Author: Marvin <marvin.fortin@outlook.com>
+Date:   Sat Feb 18 10:49:09 2017 -0500
+
+    Ultimo cambio se agrego form de datos y footer
+
+commit 4a7bdbc7e1cc1085fc2854a994c6ad3e2b7e0dcb
+Author: Marvin <marvin.fortin@outlook.com>
+Date:   Sat Feb 18 10:21:39 2017 -0500
+
+    Cambios Generales en index
+
+commit dcd558605965853852a696e4ddc9e6c03788f84f
+Author: Marvin <marvin.fortin@outlook.com>
+Date:   Sat Feb 18 10:02:42 2017 -0500
+
+    Diseño principal

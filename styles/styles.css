@@ -1,6 +1,7 @@
 
 body{
 	background-color: #9CB6F2;
+
 }
 
 
@@ -26,11 +27,13 @@ h1{
 	text-align: center;
 	background-color: silver;
 	padding: 5px;
+	
 }
 
 .mainContent:hover{
 
 	background-color: #3C74F5;
+	magin:0;
 }
 
 #cambio{
@@ -43,7 +46,21 @@ h1{
 }
 
 .formulario{
-
+	background-color: #F3DEDE;
 	padding: 50px;
+	height: 150px;
+	width: 150px;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
 }
 
+.centrado{
+
+	text-align: center;
+}
+
+.footer{
+
+	
+}
