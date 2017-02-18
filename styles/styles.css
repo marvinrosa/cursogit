@@ -1,0 +1,33 @@
+
+body{
+	background-color: #9CB6F2;
+}
+
+
+h1{
+
+	
+
+}
+
+.mensajeInicial{
+	
+	color: #F53C46;
+	text-align: center;
+
+}
+.nav, ul{
+	list-style-type:none;
+}
+.mainContent{
+
+	width: 100%;
+	text-align: center;
+	background-color: silver;
+	padding: 5px;
+}
+
+.mainContent:hover{
+
+	background-color: #3C74F5;
+}
